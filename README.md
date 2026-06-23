@@ -1,4 +1,4 @@
-# Hi there, I'm LC Pizani 👋
+# Hi there, I'm Lucas 👋
 
 I am a Data Science and Mathematics developer focused on building **trustworthy AI architectures**, semantic search pipelines, and robust data engineering solutions. I specialize in turning massive, unstructured datasets into clean, deterministic knowledge graphs and actionable systems.
 
